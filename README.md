@@ -1,2 +1,9 @@
-# NotesAndroid
-Notes for My Android Projects
+# Android
+
+## Tools
+
+## App Fundamentals
+
+## User Interface
+
+## Etc
