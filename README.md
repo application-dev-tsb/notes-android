@@ -6,7 +6,7 @@
 * Testing
 
 ## App Fundamentals
-* Manifest
+* [Manifest](/AppFundamentals/Manifest.md)
 * Intent
 
 ## User Interface
