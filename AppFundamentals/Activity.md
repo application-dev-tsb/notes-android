@@ -39,3 +39,5 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 ## Saving Instance State
 The system calls onSaveInstanceState() before making the activity vulnerable to destruction
 ![Save Instance State](http://developer.android.com/images/fundamentals/restore_instance.png)
+
+A good way to test your application's ability to restore its state is to simply rotate the device so that the screen orientation changes. When the screen orientation changes, the system destroys and recreates the activity in order to apply alternative resources that might be available for the new screen configuration. For this reason alone, it's very important that your activity completely restores its state when it is recreated, because users regularly rotate the screen while using applications.
