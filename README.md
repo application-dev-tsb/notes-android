@@ -8,7 +8,7 @@
 ## App Fundamentals
 * [Manifest](/AppFundamentals/Manifest.md)
 * [App Resources](/AppFundamentals/AppResources.md)
-* Intent
+* [Intent](/AppFundamentals/Intent.md)
 * Activity
 * Service
 * Content Provider
