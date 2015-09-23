@@ -9,6 +9,10 @@
 * [Manifest](/AppFundamentals/Manifest.md)
 * [App Resources](/AppFundamentals/AppResources.md)
 * Intent
+* Activity
+* Service
+* Content Provider
+* Broadcast Reciever
 
 ## User Interface
 
