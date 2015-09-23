@@ -3,3 +3,4 @@ An Android app is composed of more than just code—it requires resources that a
 
 Source:
 * [Android Developer](http://developer.android.com/guide/components/fundamentals.html#Resources)
+* [Providing Resources](http://developer.android.com/guide/topics/resources/providing-resources.html)
