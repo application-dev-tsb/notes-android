@@ -35,3 +35,7 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
     }
 }
 ```
+
+## Saving Instance State
+The system calls onSaveInstanceState() before making the activity vulnerable to destruction
+![Save Instance State](http://developer.android.com/images/fundamentals/restore_instance.png)
