@@ -9,4 +9,9 @@ There are two types of intents:
 * Data
 
 **Caution:** If you want to set both the URI and MIME type, do not call setData() and setType() because they each nullify the value of the other. Always use setDataAndType() to set both URI and MIME type.
+
 * Category
+* Extras
+* Flags
+
+**Source:** [Android Developer: Building Intents](http://developer.android.com/guide/components/intents-filters.html#Building) 
