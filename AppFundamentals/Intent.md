@@ -21,3 +21,8 @@ Major use cases for a pending intent include:
 * Declare an intent to be executed when the user performs an action with your Notification (the Android system's NotificationManager executes the Intent).
 * Declare an intent to be executed when the user performs an action with your App Widget (the Home screen app executes the Intent).
 * Declare an intent to be executed at a specified time in the future (the Android system's AlarmManager executes the Intent).
+
+**Source:** [Android Developer: Pending Intents](http://developer.android.com/guide/components/intents-filters.html#PendingIntent)
+
+## Intent Resolution
+**Source:** [Android Developer: Intent Resolution](http://developer.android.com/guide/components/intents-filters.html#Resolution)
