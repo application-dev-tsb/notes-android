@@ -36,7 +36,7 @@
 * Data Storage
 
 ## Miscellaneous
-* [Supporting Tablets and Handsets](http://developer.android.com/guide/practices/tablets-and-handsets.html)
+* [Supporting Tablets and Handsets](/Miscellaneous/SupportingTabletsAndHandsets.md)
 * App Widgets
 * Web Apps
 * [Styles and Themes](http://developer.android.com/guide/topics/ui/themes.html)
