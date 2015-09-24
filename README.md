@@ -15,15 +15,18 @@
 * Content Provider
 * Broadcast Reciever
 
-## User Interface
-
 ## Common APIs
 * Location Services
 * Google Play
+* Media
+* Camera
+* Data Storage
+* Processes and Threads
 
 ## Miscellaneous
 * [Supporting Tablets and Handsets](http://developer.android.com/guide/practices/tablets-and-handsets.html)
-* 
+* App Widgets
+* Web Apps
 
 ## Sources
 * [Android Fundamentals](http://developer.android.com/guide/components/fundamentals.html)
