@@ -25,6 +25,7 @@
 * Notifications
 * Toast
 * Search
+* App Drawer
 
 ## Common APIs
 * Location Services
