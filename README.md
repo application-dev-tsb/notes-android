@@ -3,7 +3,7 @@
 
 ## Tools
 * Android Studio
-* Testing
+* [Testing](http://developer.android.com/tools/testing/testing-tools.html)
 
 ## App Fundamentals
 * [Manifest](/AppFundamentals/Manifest.md)
@@ -20,6 +20,10 @@
 * Menu
 * Preferences/Settings
 * Back/Up Button
+* Dialog
+* Notifications
+* Toast
+* Search
 
 ## Common APIs
 * Location Services
@@ -28,11 +32,16 @@
 * Camera
 * Data Storage
 * Processes and Threads
+* Data Storage
 
 ## Miscellaneous
 * [Supporting Tablets and Handsets](http://developer.android.com/guide/practices/tablets-and-handsets.html)
 * App Widgets
 * Web Apps
+* [Styles and Themes](http://developer.android.com/guide/topics/ui/themes.html)
+* [Computation/Renderscript](http://developer.android.com/guide/topics/renderscript/index.html)
+* [Data Binding Library](http://developer.android.com/tools/data-binding/guide.html)
+* [NDK](http://developer.android.com/tools/sdk/ndk/index.html)
 
 ## Sources
 * [Android Fundamentals](http://developer.android.com/guide/components/fundamentals.html)
