@@ -42,6 +42,7 @@
 * [Computation/Renderscript](http://developer.android.com/guide/topics/renderscript/index.html)
 * [Data Binding Library](http://developer.android.com/tools/data-binding/guide.html)
 * [NDK](http://developer.android.com/tools/sdk/ndk/index.html)
+* [Support Library](http://developer.android.com/tools/support-library/index.html)
 
 ## Sources
 * [Android Fundamentals](http://developer.android.com/guide/components/fundamentals.html)
