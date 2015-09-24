@@ -61,3 +61,10 @@ public static class FragmentA extends ListFragment {
     ...
 }
 ```
+
+## Adding items to the Action Bar
+
+Your fragments can contribute menu items to the activity's Options Menu (and, consequently, the Action Bar) by implementing **onCreateOptionsMenu()**. In order for this method to receive calls, however, you must call **setHasOptionsMenu()** during **onCreate()**, to indicate that the fragment would like to add items to the Options Menu (otherwise, the fragment will not receive a call to **onCreateOptionsMenu()**).
+
+## Fragment Lifecycle
+![Fragment Lifecycle Flowchart](http://developer.android.com/images/activity_fragment_lifecycle.png)
