@@ -18,3 +18,6 @@ public static class ExampleFragment extends Fragment {
 * [Dialog Fragment](http://developer.android.com/reference/android/app/DialogFragment.html)
 * [List Fragment](http://developer.android.com/reference/android/app/ListFragment.html)
 * [PreferenceFragment](http://developer.android.com/reference/android/preference/PreferenceFragment.html)
+
+## Managing Fragments
+See [FragmentManager](http://developer.android.com/reference/android/app/FragmentManager.html) for more information regarding fragment stack management.
