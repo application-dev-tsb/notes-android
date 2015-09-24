@@ -63,4 +63,7 @@ public class MainActivity extends Activity implements TitlesFragment.OnItemSelec
 }
 ```
 
+## Split Action Bar (Android 4.0 / API 14)
+![Split Action Bar](http://developer.android.com/images/practices/actionbar-phone-splitaction.png)
+
 **Source:** [Android Developer: Supporting Tablets and Handsets](http://developer.android.com/guide/practices/tablets-and-handsets.html)
