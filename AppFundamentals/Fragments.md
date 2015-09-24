@@ -68,3 +68,6 @@ Your fragments can contribute menu items to the activity's Options Menu (and, co
 
 ## Fragment Lifecycle
 ![Fragment Lifecycle Flowchart](http://developer.android.com/images/activity_fragment_lifecycle.png)
+
+**Source:**
+* [Android Developer: Fragment Example Code](http://developer.android.com/guide/components/fragments.html#Example)
