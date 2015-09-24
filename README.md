@@ -27,6 +27,7 @@
 * [Supporting Tablets and Handsets](http://developer.android.com/guide/practices/tablets-and-handsets.html)
 * App Widgets
 * Web Apps
+* Action Bar
 
 ## Sources
 * [Android Fundamentals](http://developer.android.com/guide/components/fundamentals.html)
