@@ -12,5 +12,10 @@
 ## IntentService
 Because most started services don't need to handle multiple requests simultaneously (which can actually be a dangerous multi-threading scenario), it's probably best if you implement your service using the IntentService class.
 
+## Bound Service
+* extending [Binder](http://developer.android.com/guide/components/bound-services.html#Binder) class
+* using a [Messenger](http://developer.android.com/guide/components/bound-services.html#Messenger) (cross-process)
+* [AIDL](http://developer.android.com/guide/components/aidl.html) (for cross-process communication) 
+
 **Source:**
 * [Android Developer: Service](http://developer.android.com/guide/components/services.html)
