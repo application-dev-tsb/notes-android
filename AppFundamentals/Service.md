@@ -1,6 +1,6 @@
 # Service
-* Bound Service
-* Started Service
+* **Bound Service** - allows application components to bind to it by calling **bindService()** in order to create a long-standing connection (and generally does not allow components to start it by calling **startService()**
+* **Started Service** - xxxx
 
 **Note:** 
 * When starting a Service, you should always specify the component name. Otherwise, you cannot be certain what service will respond to the intent, and the user cannot see which service starts.
