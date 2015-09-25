@@ -12,11 +12,30 @@
 </menu>
 ```
 ```java
+//Activity or Fragment
+
+//building a menu
 @Override
 public boolean onCreateOptionsMenu(Menu menu) {
     MenuInflater inflater = getMenuInflater();
     inflater.inflate(R.menu.game_menu, menu);
     return true;
+}
+
+//handling click
+@Override
+public boolean onOptionsItemSelected(MenuItem item) {
+    // Handle item selection
+    switch (item.getItemId()) {
+        case R.id.new_game:
+            newGame();
+            return true;
+        case R.id.help:
+            showHelp();
+            return true;
+        default:
+            return super.onOptionsItemSelected(item);
+    }
 }
 ```
 * **Action Bar Menu** -
