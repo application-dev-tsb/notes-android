@@ -8,6 +8,11 @@ There are two major classes of broadcasts that can be received:
 * To enforce a permission when sending, you supply a non-null permission argument to sendBroadcast(Intent, String) or sendOrderedBroadcast(Intent, String, BroadcastReceiver, android.os.Handler, int, String, Bundle). Only receivers who have been granted this permission (by requesting it with the < uses-permission > tag in their AndroidManifest.xml) will be able to receive the broadcast.
 * To enforce a permission when receiving, you supply a non-null permission when registering your receiver -- either when calling registerReceiver(BroadcastReceiver, IntentFilter, String, android.os.Handler) or in the static < receiver > tag in your AndroidManifest.xml. Only broadcasters who have been granted this permission (by requesting it with the < uses-permission > tag in their AndroidManifest.xml) will be able to send an Intent to the receiver.
 
+## Lifecycle
+* The broadcast receiver only lives within the bounds of **onReceive(Context, Intent)**
+* you cannot bind to a service, call **Context.startService()** instead
+* you cannot create a dialog, use [NotificationManager](http://developer.android.com/reference/android/app/NotificationManager.html) instead
+
 ## Notes
 * [LocalBroadcastManager](http://developer.android.com/reference/android/support/v4/content/LocalBroadcastManager.html) - for sending and receiving in-app broadcast effectively
 * If registering a receiver in your **Activity.onResume()** implementation, you should unregister it in **Activity.onPause()**
