@@ -40,6 +40,7 @@
 
 ## Performance
 * GCMNetworkManager
+* [Prefetching](/Performance/Prefetching.md)
 * Batching Background Work
 * [HTTP Caching](https://www.youtube.com/watch?v=7lxVqqWwTb0&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=1)
 * LRUCache
