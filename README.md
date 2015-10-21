@@ -36,6 +36,9 @@
 * Processes and Threads
 * Data Storage
 
+## Performance
+* GCMNetworkManagaer
+
 ## Miscellaneous
 * [Supporting Tablets and Handsets](/Miscellaneous/SupportingTabletsAndHandsets.md)
 * App Widgets
