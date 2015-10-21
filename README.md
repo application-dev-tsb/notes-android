@@ -5,6 +5,8 @@
 * [Developer Workflow](http://developer.android.com/tools/workflow/index.html)
 * Android Studio
 * [Testing](http://developer.android.com/tools/testing/testing-tools.html)
+* Network Monitor
+* Lint
 
 ## App Fundamentals
 * [Manifest](/AppFundamentals/Manifest.md)
@@ -37,7 +39,11 @@
 * Data Storage
 
 ## Performance
-* GCMNetworkManagaer
+* GCMNetworkManager
+* Batching Background Work
+* [HTTP Caching](https://www.youtube.com/watch?v=7lxVqqWwTb0&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=1)
+* LRUCache
+* View Transparency 
 
 ## Miscellaneous
 * [Supporting Tablets and Handsets](/Miscellaneous/SupportingTabletsAndHandsets.md)
