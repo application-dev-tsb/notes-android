@@ -5,7 +5,7 @@
 * [Developer Workflow](http://developer.android.com/tools/workflow/index.html)
 * Android Studio
 * [Testing](http://developer.android.com/tools/testing/testing-tools.html)
-* Network Monitor
+* Network Traffic Tool
 * Lint
 
 ## App Fundamentals
