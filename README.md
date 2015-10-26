@@ -27,6 +27,7 @@
 * Notifications
 * Toast
 * Search
+* Recycler View
 * App Drawer
 
 ## Common APIs
