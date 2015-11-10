@@ -7,3 +7,7 @@ builder.setSmallIcon(android.R.drawable.ic_dialog_email).setContentTitle("My not
 NotificationManager notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
 notificationManager.notify(1, builder.build());
 ```
+
+**Sources:**
+* [Android API Guide: Notifications](http://developer.android.com/guide/topics/ui/notifiers/notifications.html)
+* [Design Guide: Notifications](http://developer.android.com/design/patterns/notifications.html)
