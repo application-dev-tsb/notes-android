@@ -24,7 +24,7 @@
 * Preferences/Settings
 * Back/Up Button
 * Dialog
-* Notifications
+* [Notifications](/UserInterface/Notifications.md)
 * Toast
 * Search
 * Recycler View
