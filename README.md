@@ -22,12 +22,7 @@
 * [Action Bar](/UserInterface/ActionBar.md)
 * [Menu](/UserInterface/Menu.md)
 * Preferences/Settings
-* Dialog
-* [Notifications](/UserInterface/Notifications.md)
-* Toast
 * Search
-* Recycler View
-* App Drawer
 * Card
 
 #### Navigation
@@ -51,9 +46,10 @@
 * Pickers
 
 #### Notifications
-* Notification Drawer
+* [Notification Drawer](/UserInterface/Notifications.md)
 * Toasts
 * Snackbar
+* Dialog
 
 ## Common APIs
 * Location Services
