@@ -7,6 +7,7 @@
 * [Testing](http://developer.android.com/tools/testing/testing-tools.html)
 * Network Traffic Tool
 * Lint
+* Instant Run
 
 ## App Fundamentals
 * [Manifest](/AppFundamentals/Manifest.md)
