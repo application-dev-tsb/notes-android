@@ -25,6 +25,7 @@
 * Coordinator Layout
 * Relative Layout
 * Absolute Layout
+* Collapsing Toolbar Layout
 
 #### Widgets
 * [Action Bar](/UserInterface/ActionBar.md)
