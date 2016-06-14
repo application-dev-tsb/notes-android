@@ -21,11 +21,6 @@
 ## User Interface
 * [Action Bar](/UserInterface/ActionBar.md)
 * [Menu](/UserInterface/Menu.md)
-* Navigation Drawer
-* Tab Navigation
-* Master-Detail Navigation
-* Navigate to External Activity
-* Back/Up Navigation
 * Preferences/Settings
 * Dialog
 * [Notifications](/UserInterface/Notifications.md)
@@ -34,6 +29,31 @@
 * Recycler View
 * App Drawer
 * Card
+
+#### Navigation
+* Navigation Drawer
+* Tab Navigation
+* Master-Detail Navigation
+* Navigate to External Activity
+* Back/Up Navigation
+
+#### Lists
+* List View
+* Grid View
+
+#### Input Controls.
+* Buttons
+* Text Fields
+* Checkboxes
+* Radio Buttons
+* Toggle Buttons
+* Spinners
+* Pickers
+
+#### Notifications
+* Notification Drawer
+* Toasts
+* Snackbar
 
 ## Common APIs
 * Location Services
