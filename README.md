@@ -20,6 +20,13 @@
 * [Broadcast Reciever](/AppFundamentals/BroadcastReceiver.md)
 
 ## User Interface
+
+#### Layouts
+* Coordinator Layout
+* Relative Layout
+* Absolute Layout
+
+#### Widgets
 * [Action Bar](/UserInterface/ActionBar.md)
 * [Menu](/UserInterface/Menu.md)
 * Preferences/Settings
