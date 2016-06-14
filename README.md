@@ -21,14 +21,19 @@
 ## User Interface
 * [Action Bar](/UserInterface/ActionBar.md)
 * [Menu](/UserInterface/Menu.md)
+* Navigation Drawer
+* Tab Navigation
+* Master-Detail Navigation
+* Navigate to External Activity
+* Back/Up Navigation
 * Preferences/Settings
-* Back/Up Button
 * Dialog
 * [Notifications](/UserInterface/Notifications.md)
 * Toast
 * Search
 * Recycler View
 * App Drawer
+* Card
 
 ## Common APIs
 * Location Services
