@@ -18,6 +18,7 @@
 * [Service](/AppFundamentals/Service.md)
 * [Content Provider](/AppFundamentals/ContentProvider.md)
 * [Broadcast Reciever](/AppFundamentals/BroadcastReceiver.md)
+* Loader
 
 ## User Interface
 
