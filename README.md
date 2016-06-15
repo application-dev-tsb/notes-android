@@ -40,9 +40,10 @@
 * Master-Detail Navigation
 * Navigate to External Activity
 * Back/Up Navigation
+* Swipe Navigation
 
 #### Lists
-* List View
+* Recycler View
 * Grid View
 
 #### Input Controls.
@@ -56,6 +57,7 @@
 
 #### Notifications
 * [Notification Drawer](/UserInterface/Notifications.md)
+* HeadsUp Notification
 * Toasts
 * Snackbar
 * Dialog
