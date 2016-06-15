@@ -19,6 +19,7 @@
 * [Content Provider](/AppFundamentals/ContentProvider.md)
 * [Broadcast Reciever](/AppFundamentals/BroadcastReceiver.md)
 * Loader
+* Tasks and Backstack
 
 ## User Interface
 
