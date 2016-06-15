@@ -94,6 +94,7 @@
 
 ## Useful Libraries
 * [Picasso](https://github.com/square/picasso) - Async image loader
+* [ButterKnife](https://github.com/codepath/android_guides/wiki/Reducing-View-Boilerplate-with-Butterknife) - View Binding, Resource Lookup
 
 ## Sources
 * [Android Fundamentals](http://developer.android.com/guide/components/fundamentals.html)
