@@ -92,6 +92,9 @@
 * [Support Library](http://developer.android.com/tools/support-library/index.html)
 * [Runtime Permissions (6.0)](https://developer.android.com/preview/features/runtime-permissions.html?utm_campaign=m-developer-launch&utm_source=dac&utm_medium=blog)
 
+## Useful Libraries
+* [Picasso](https://github.com/square/picasso) - Async image loader
+
 ## Sources
 * [Android Fundamentals](http://developer.android.com/guide/components/fundamentals.html)
 * [Android Studio](http://developer.android.com/tools/studio/index.html)
