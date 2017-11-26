@@ -1,3 +1,7 @@
+Guide Needs some huge Update:
+- [New Architecture-Changing Libraries](https://developer.android.com/topic/libraries/architecture/index.html)
+- Android Oreo
+
 # Android
 ![Android Marshmallow Banner](/Images/android-marshmallow.png)
 
